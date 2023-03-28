@@ -1,4 +1,3 @@
-# PROJECT CODE
 
 import IPython
 b=0
