@@ -1,0 +1,15 @@
+git init 
+git clone
+cd scm_final/
+git status 
+branch 
+branch n ame 
+checkout name 
+ls 
+notepad 
+status 
+add .
+commit
+push 
+checkout main
+merge branch name 
